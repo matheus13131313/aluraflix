@@ -23,7 +23,7 @@ header {
 
 section {
   background-color: var(--lilas-claro); /*cor de fundo*/
-  padding-bottom: 90px; /*espaçamento inferior*/
+  padding-bottom: 80px; /*espaçamento inferior*/
   padding-top: 80px; /*espaçamento superior*/
   display: flex; /*alterar a disposição*/
   justify-content: center; /* justificado no centro*/
